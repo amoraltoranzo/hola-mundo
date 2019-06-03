@@ -1,4 +1,4 @@
 # hola-mundo
-solamente un repositirio
+solamente un repositorio
 Hola
 Me llamo Antonio 
